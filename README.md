@@ -41,6 +41,9 @@ As a brief summary of my findings:
 This repo contains 4 files. The report of my project is called 'Starbucks Capstone Challenge - Using Starbucks app user data to predict effective offers.ipynb'. 
 The data used in the project is in the files portfolio.json, profile.json and transcript.json. 
 
+The notebook available [here](https://github.com/Bharati-Yadav/Data-Science-Blog-Post/blob/master/Bank-Customers-Churn-Prediction.ipynb) 
+The blog available [here]()
+
 ### 4. Licensing, Authors, Acknowledgements, etc.
 
 Data for coding project was provided by Udacity.
