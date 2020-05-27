@@ -17,7 +17,7 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 - sklearn.metrics (f1_score)
 - sklearn.neighbors(KNeighborsClassifier)
 - datetime
-- ssklearn.svm (SVC)
+- sklearn.svm (SVC)
 - matplotlib
 
 ### 2. Project Motivation
