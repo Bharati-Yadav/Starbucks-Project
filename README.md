@@ -24,7 +24,7 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 This project is the Capstone project of my Data Scientist nanodegree with Udacity. As students in the nanodegree, we have the option to take part in the Starbucks Capstone Challenge.
 For the challenge, Udacity provided simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
-### 3.BUsiness Analysis Questions
+### 3.Business Analysis Questions
 Q. what is the highest number of customer age?
 
 Q. what is majority income of customer?
